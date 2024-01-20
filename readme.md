@@ -31,3 +31,20 @@
 * Compile: g++ -O3 -o xxx.out main.cpp
 * Run: ./xxx.out
 * Note: xxx can be arbitrary.
+
+## Citation
+If you use our implementation, please cite the following paper.
+``` 
+@inproceedings{amagata2024fair,  
+    title={Fair k-center Clustering with Outliers},  
+    author={Amagata, Daichi},  
+    booktitle={AISTATS},  
+    pages={xx--xx},  
+    year={2024}  
+}
+```
+
+
+## License
+Copyright (c) 2024 Daichi Amagata  
+This software is released under the [MIT license](https://github.com/amgt-d1/Fair-k-center-w-outliers/blob/main/LICENSE).
