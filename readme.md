@@ -19,10 +19,13 @@
 
 ### Parameter
 * They are controllable by .txt files.
-* See "parameter" directory.
+* See `parameter` directory.
 
 ### Ours
 * If you wanna activate random sampling, use "ours_sampling.hpp" instead of "ours.hpp".
+
+### Result
+* See `output_result()`.
 
 ### Execution
 * Compile: g++ -O3 -o xxx.out main.cpp
