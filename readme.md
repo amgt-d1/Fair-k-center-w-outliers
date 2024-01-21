@@ -22,7 +22,7 @@
 * See `parameter` directory.
 
 ### Ours
-* If you wanna activate random sampling, use "ours_sampling.hpp" instead of "ours.hpp".
+* If you want to activate random sampling, use `ours_sampling.hpp` instead of `ours.hpp`.
 
 ### Result
 * See `output_result()`.
