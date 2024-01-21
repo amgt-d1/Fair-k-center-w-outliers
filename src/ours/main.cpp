@@ -1,5 +1,5 @@
-//#include "ours.hpp"
-#include "ours_sampling.hpp"
+#include "ours.hpp"
+// #include "ours_sampling.hpp"
 
 
 int main() {
