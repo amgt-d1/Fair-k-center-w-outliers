@@ -39,7 +39,7 @@ If you use our implementation, please cite the following paper.
     title={Fair k-center Clustering with Outliers},  
     author={Amagata, Daichi},  
     booktitle={AISTATS},  
-    pages={xx--xx},  
+    pages={10--18},  
     year={2024}  
 }
 ```
