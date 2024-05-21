@@ -1,6 +1,8 @@
 ## Introduction
 * This repository provides implementations of our algorithm for [fair k-center clustering with outliers](https://proceedings.mlr.press/v238/amagata24a/amagata24a.pdf), published in AISTATS2024.
 
+[![MIT licensed](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/amgt-d1/Fair-k-center-w-outliers/blob/main/LICENSE)
+
 ## How to use
 
 ### Dataset
